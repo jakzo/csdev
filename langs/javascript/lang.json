@@ -1,0 +1,6 @@
+{
+  "name": "JavaScript",
+  "aliases": ["javascript", "js"],
+  "extensions": ["js"],
+  "timeLimit": 4000
+}

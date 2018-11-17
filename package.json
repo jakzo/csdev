@@ -1,0 +1,24 @@
+{
+  "name": "csdev",
+  "version": "0.1.0",
+  "description": "Local dev environment for CodeSignal.",
+  "main": "index.js",
+  "bin": "index.js",
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "author": "Jack Field <jack@jf.id.au>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "dockerode": "^2.5.7",
+    "fs-extra": "^7.0.1",
+    "io-ts": "^1.4.1",
+    "io-ts-reporters": "0.0.21"
+  },
+  "devDependencies": {}
+}
